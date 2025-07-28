@@ -5,11 +5,11 @@ This repository contains the presentation I gave at the DDOS Meetup.
 **Topic:**  
 How PostgreSQL stores data and chooses scan strategies
 
-📄 [Download the slides](./DDOS_Meetup_SQL.pptx)
+📄 [Download the slides (PPTX)](https://github.com/Mendy-Steinmetz/DDOS_Meetup/raw/main/DDOS_Meetup_SQL.pptx)
 
 ---
 
 Feel free to use or share the slides with proper credit.
 
 **License:**  
-Slides: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Slides © 2025 Mendy Steinmetz. All rights reserved.
